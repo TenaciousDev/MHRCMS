@@ -61,7 +61,10 @@
     <Compile Include="Housing.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Personnel.cs" />
+    <Compile Include="Platoon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Squad.cs" />
+    <Compile Include="Team.cs" />
     <Compile Include="UnitInfo.cs" />
   </ItemGroup>
   <ItemGroup>
